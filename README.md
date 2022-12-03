@@ -1,4 +1,4 @@
-# JavaScript-Fundamentals
+# JavaScript-Fundamentals 📑 Themes
 
 <img src="https://user-images.githubusercontent.com/106147027/181279553-6ac6e4dd-bb3f-444d-a70f-bcfa0de7e0a7.png"> 
 
